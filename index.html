@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>Graph Viewer</title>
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  </head>
+  <body>
+    <div id="GraphContainer">
+    </div>
+    <div id="info" style="position: absolute; top: 0px; width: 100%; padding: 10px; box-sizing: border-box; text-align: center; -moz-user-select: none; -webkit-user-select: none; -ms-user-select: none; user-select: none; pointer-events: none; z-index: 1; font-family: Monospace">
+      left-click on node to highlight; drag to arrange vertically<br>
+      double-left-click on node to open 3D configuration viewer<br>
+      hover over edge to view probability; node to view ropelength<br>
+      scroll to zoom
+    </div>
+  </body>
+  <script type="module" src="javascript/graphviewer.js"></script>
+</html>
