@@ -3,7 +3,7 @@ After familiarizing yourself with the description of this dataset
 below, [click
 here](https://ust-knot-posse.github.io/tightknots-tunneling/) to
 visualize the data (or navigate to the GitHub pages URL for this
-repository).
+repository). Desktop FireFox or Chrome will probably work the best.
 
 ## Dataset overview
 This dataset describes the decay possibilities for tight knot
